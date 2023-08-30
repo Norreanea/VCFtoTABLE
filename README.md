@@ -1,2 +1,2 @@
 # VCFtoTABLE
-Convert annotated with snpEff vcf file into table (following columns would be extracted: CHROM, POS, REF, ALT, QUAL,  from column INFO : DP, AF, TYPE, value from ANN between frst and second "|")
+Convert the vcf file annotated with snpEff into a table (the following columns will be extracted: CHROM, POS, REF, ALT, QUAL, from the INFO column: DP, AF, TYPE, values from ANN between the first and s
